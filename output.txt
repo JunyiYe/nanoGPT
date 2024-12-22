@@ -1,0 +1,29 @@
+(nanoGPT) 😊 nanoGPT@n0003$ python gpt.py
+10.788929 M parameters
+step 0: train loss 4.2221, val loss 4.2306
+step 500: train loss 1.7570, val loss 1.9124
+step 1000: train loss 1.3902, val loss 1.6033
+step 1500: train loss 1.2664, val loss 1.5218
+step 2000: train loss 1.1852, val loss 1.4953
+step 2500: train loss 1.1249, val loss 1.4928
+step 3000: train loss 1.0695, val loss 1.4868
+step 3500: train loss 1.0187, val loss 1.4997
+step 4000: train loss 0.9621, val loss 1.5073
+step 4500: train loss 0.9111, val loss 1.5357
+step 4999: train loss 0.8577, val loss 1.5591
+
+Had you to do up, the your honour I please; you know
+'ll ven me yet shall this tus up a dowry to him. To him this
+very
+'Tward his necks; his punit is honour with his
+disposing. 'Tis no true: thou wilt but make
+down, Wome laugh for him; though this, and man
+but a streets, to the Tarpince offinit
+her mis-headed her whorre, thought his eyes or notticly,
+and stabb'd with him, and with all hope,
+ave our own kttteres.
+
+First Senator:
+Marcius, are odds:
+The man Ediciply of thing gone:
+The duke the nurs
